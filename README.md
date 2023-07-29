@@ -24,7 +24,7 @@ Welcome to "The Beauty of Visualizing" repository! This GitHub repository is ded
    - Description: Information is vital, but presenting it in a digestible way is even more valuable. Browse through this interactive gallery and find examples of different types of data communicated visually. You can even use the data studio tool to create your own data-driven visualizations.
    - Link: [Data Studio Gallery](https://lookerstudio.google.com/gallery?category=visualization)
 
-## Why Data Visualization Matters
+# Why Data Visualization Matters
 
 Data visualization plays a crucial role in a data analyst's work. It allows you to communicate your analysis effectively to your audience, who might not have the ability to interpret complex information. Visual elements such as colors, shapes, and patterns make it easier to tell a compelling data-driven story that goes beyond mere numbers.
 
